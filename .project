@@ -8,4 +8,11 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>canvajs/monsters.jpg</name>
+			<type>1</type>
+			<location>C:/Users/i819763/Desktop/github/helloworld/canvajs/monsters.jpg</location>
+		</link>
+	</linkedResources>
 </projectDescription>
